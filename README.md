@@ -2,7 +2,7 @@
 
 **`Graphic Design | Software Development | Video Editing`**
 
-I am a developer from Toronto, Canada (now in Halifax!) working to create software that solve problems. I have worked alongside researchers at the Nova Scotia Blood Brain Barrier Lab to help create software to simplify rat-data tracking for lab members under-and post graduate students. All my work is done with the purpose of helping to streamlining tasks through the wonders of technology!
+I am a developer from Toronto, Canada (now in Halifax!) working to create software that solves problems. I have worked alongside researchers at the Nova Scotia Blood Brain Barrier Lab to help create software to simplify rat-data tracking for lab members under-and post graduate students. All my work is done with the purpose of helping to streamlining tasks through the wonders of technology!
 
 ---
 
