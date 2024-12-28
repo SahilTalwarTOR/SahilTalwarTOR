@@ -4,6 +4,9 @@
 
 I am a developer from Toronto, Canada (now in Halifax!) working to create software that solves problems. I have worked alongside researchers at the Nova Scotia Blood Brain Barrier Lab to help create software to simplify rat-data tracking for lab members under-and post graduate students. All my work is done with the purpose of helping to streamlining tasks through the wonders of technology!
 
+
+Right now I am working on a new project, [IsItWorthGoingTo?](https://github.com/SahilTalwarTOR/IsItWorthGoingTo), a site which will help users decide if a location is worth going to based on availabile weather data, traffic conditions, local event information, amongst many other things (that are then *mushed* into an **AI model** that'll help write out the decision!)
+
 ---
 
 ### ⚙️ Languages & Tools
