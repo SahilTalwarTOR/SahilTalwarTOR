@@ -7,6 +7,21 @@ I am a developer from Toronto, Canada (now in Halifax!) working to create softwa
 
 Right now I am working on a new project, FlightStages, to help reassure passengers dealing with flight anxiety throughout a flight with realtime flight data & animations, panic modes that enable vertical speed watch during turbulence, tailored flight-specific AI chats, and more!
 
+<br />
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><a href="LINK_TO_FLIGHTSTAGES_REPO">FlightStages</a></h3>
+      <p><strong>Personal Project</strong></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><a href="https://github.com/SahilTalwarTOR/RATLab">RATLab</a></h3>
+      <p><strong>Blood Brain Barrier Lab</strong></p>
+    </td>
+  </tr>
+</table>
+<br />
+
 ---
 
 ### ⚙️ Languages & Tools
