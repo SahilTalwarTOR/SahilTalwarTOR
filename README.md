@@ -2,10 +2,10 @@
 
 **`Graphic Design | Software Development | Video Editing`**
 
-I am a developer from Toronto, Canada (now in Halifax!) working to create software that solves problems. I have worked alongside researchers at the Nova Scotia Blood Brain Barrier Lab to help create software to simplify rat-data tracking for lab members under-and post graduate students. All my work is done with the purpose of helping to streamlining tasks through the wonders of technology!
+I am a developer from Toronto, Canada (now in Halifax!) working to create software that solves problems. I have worked alongside researchers at the Nova Scotia Blood Brain Barrier Lab to help create software to simplify rat-data tracking for lab members under-and post graduate students, and the PROSIT Lab to create a full stack modern website with CMS functionalities.
 
 
-Right now I am working on a new project, [IsItWorthGoingTo?](https://github.com/SahilTalwarTOR/IsItWorthGoingTo), a site which will help users decide if a location is worth going to based on availabile weather data, traffic conditions, local event information, amongst many other things (that are then *mushed* into an **AI model** that'll help write out the decision!)
+Right now I am working on a new project, FlightStages, to help reassure passengers dealing with flight anxiety throughout a flight with realtime flight data & animations, panic modes that enable vertical speed watch during turbulence, tailored flight-specific AI chats, and more!
 
 ---
 
