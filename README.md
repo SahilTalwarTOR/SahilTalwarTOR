@@ -1,4 +1,4 @@
-# 🖤 Sahil Talwar
+# Sahil Talwar
 
 **`Graphic Design | Software Development | Video Editing`**
 
