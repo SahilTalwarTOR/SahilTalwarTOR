@@ -19,7 +19,7 @@ Right now I am working on a new project, FlightStages, to help reassure passenge
         <p><strong>Blood Brain Barrier Lab</strong></p>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3><a href="https://github.com/SahilTalwarTOR/RATLab">PROSIT Website</a></h3>
+        <h3><a href="https://prosit-site-test.vercel.app/">PROSIT Website</a></h3>
         <p><strong>PROSIT Lab, developed by me</strong></p>
       </td>
     </tr>
