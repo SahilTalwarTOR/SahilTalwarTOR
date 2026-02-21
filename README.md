@@ -1,6 +1,6 @@
 # Sahil Talwar
 
-**`Graphic Design | Software Development | Video Editing`**
+**`Software Developer | Incoming @ Software Developer Jazz Aviation `**
 
 I am a developer from Toronto, Canada (now in Halifax!) working to create software that solves problems. I have worked alongside researchers at the Nova Scotia Blood Brain Barrier Lab to help create software to simplify rat-data tracking for lab members under-and post graduate students, and the PROSIT Lab to create a full stack modern website with CMS functionalities.
 
