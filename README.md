@@ -4,13 +4,13 @@
 I am a developer from Toronto, Canada (now in Halifax!) working to create software that solves problems. I have worked alongside researchers at the Nova Scotia Blood Brain Barrier Lab to help create software to simplify rat-data tracking for lab members under-and post graduate students, and the PROSIT Lab to create a full stack modern website with CMS functionalities.
 
 
-Right now I am working on a new project, FlightStages, to help reassure passengers dealing with flight anxiety throughout a flight with realtime flight data & animations, panic modes that enable vertical speed watch during turbulence, tailored flight-specific AI chats, and more!
+Right now I am working on a new project, FlightStages, to help reassure passengers dealing with flight anxiety throughout a flight with realtime flight data & animations, panic modes that enable vertical speed watch during turbulence, and more! Check out my personal <a href="https://www.sahiltalwar.dev/">portfolio website</a>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>FlightStages</h3>
+        <h3><a href="https://www.flightstages.com/">FlightStages</a></h3>
         <p><strong>Personal Project</strong></p>
       </td>
       <td width="50%" align="center" valign="top">
