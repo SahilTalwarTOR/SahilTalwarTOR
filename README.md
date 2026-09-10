@@ -43,6 +43,12 @@ Right now I am working on a new project, FlightStages, to help reassure passenge
 
 ---
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilTalwarTOR&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
@@ -62,18 +68,6 @@ Right now I am working on a new project, FlightStages, to help reassure passenge
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
 </p>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilTalwarTOR&show_icons=true&theme=dark" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilTalwarTOR&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
 
